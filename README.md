@@ -14,9 +14,6 @@ func testDupa() {
  gsdgsd
 }
 }
-
-zmiany do zrevertowania
-
 Za każdym razem, kiedy korzystasz z Usługi, w przypadku wystąpienia błędu w aplikacji gromadzone są dane i informacje (za pośrednictwem produktów osób trzecich) na twoim urządzeniu pod postacią Log Data. Dane te mogą zawierać informacje takie jak protokół internetowy „IP” twojego urządzenia, nazwę urządzenia, wersję systemu operacyjnego, ustawienia aplikacji podczas korzystania z Usługi oraz inne statystyki.
 Pliki cookies (ciasteczka)
 Pliki cookies to niewielkie pliki zawierające anonimowy unikatowy identyfikator, który przesyłany jest z odwiedzanych przez ciebie stron internetowych i przechowywany w pamięci wewnętrznej twojego urządzenia.
