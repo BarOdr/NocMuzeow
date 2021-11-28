@@ -8,7 +8,7 @@ Decydując się na korzystanie z mojej Usługi wyrażasz zgodę na gromadzenie i
 Gromadzenie i przetwarzanie informacji
 W celu dostarczenia Usługi wymagane może być dostarczenie określonych danych osobowych. Dane zachowane będą wyłącznie na twoim urządzeniu i nie są gromadzone przeze mnie w żaden sposób.
 Aplikacja korzysta z usług osób trzecich, które mogą gromadzić informacje pozwalające na identyfikację użytkownika.
-Dane AdMob
+Dane AdMob heheddd
 
 func testDupa() {
  gsdgsd
