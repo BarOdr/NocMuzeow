@@ -2,6 +2,7 @@
 
 Polityka Prywatności
 Bartosz Odrzywołek stworzył aplikację Noc Muzeów jako bezpłatną. Korzystanie z Usługi jest wolne od opłat i dobrowolne.
+
 Strona ma na celu dostarczenie użytkownikom informacji dotyczących polityki gromadzenia, przetwarzania oraz udostępniania danych osobowych w przypadku korzystania z Usługi.
 Decydując się na korzystanie z mojej Usługi wyrażasz zgodę na gromadzenie i przetwarzanie danych w odniesieniu do tej polityki. Gromadzone dane osobowe są używane w celu dostarczania i udoskonalania Usługi. Informacje nie będą użyte oraz udostępniane w celach nieprzedstawionych w tej Polityce Prywatności.
 Gromadzenie i przetwarzanie informacji
